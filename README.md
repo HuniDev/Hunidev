@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/briannachogan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.hunidev.com">
+  <a href="https://www.hunidev.com">
     <img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logoColor=white" alt="Portfolio Badge"/>
   </a>
 
